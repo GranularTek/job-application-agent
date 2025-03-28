@@ -1,0 +1,5 @@
+backend/node_modules
+.Ds_Store
+.env
+linkedin_cookies.json
+linkedin_cookies.enc
