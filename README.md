@@ -110,5 +110,3 @@ Authorization: Bearer <your_token>
 
 ## 📫 Contact
 **Maintainer:** GranularTek LLC  
-**Pair Developer:** ChatGPT (OpenAI)
-
